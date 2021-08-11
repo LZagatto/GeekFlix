@@ -1,12 +1,12 @@
-# DeePr
+# GeekFlix
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="site.jpg" alt="exemplo imagem">
+<img src="capa.PNG" alt="imagem da tela inicial">
 
-> Site pessoal com foco na dispersão de informações sobre a depressão e suas variantes.
+> Site pessoal para treino utilizando HTML, CSS e Javascript.
 
 ### Ajustes e melhorias
 
@@ -24,17 +24,9 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você tem uma máquina `<Windows / Linux / Mac>`. 
 * Você possui `<VSCode>`.
 
-## ☕ Usando <DeePr>
+## 📫 Contribuindo para <GeekFlix>
 
-Para usar <DeePr>, siga estas etapas:
-
-```
-Você poderá alterar a cor do fundo da tela clicando no simbolo circular(YinYang) localizado logo no meio da tela.
-```
-
-## 📫 Contribuindo para <DeePr>
-
-Para contribuir com <DeePr>, siga estas etapas:
+Para contribuir com <GeekFlix>, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
